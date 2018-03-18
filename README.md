@@ -1,1 +1,3 @@
-# firebaseui-web-cs
+# FirebaseUI for Web in Czech
+
+Localised FirebaseUI Web for CS mutation.
